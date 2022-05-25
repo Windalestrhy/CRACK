@@ -5,7 +5,7 @@ FILE CLONING
 
 
 # MENU
-![20220525_195330](https://user-images.githubusercontent.com/106246671/170256656-0add2037-a5e9-4e43-93c1-27128f0e1350.jpg)
+![20220525_200252](https://user-images.githubusercontent.com/106246671/170257677-b8f10ec1-9575-4b3f-bc79-419eb51cfb00.jpg)
 
 
 pkg install update && upgrade -y
